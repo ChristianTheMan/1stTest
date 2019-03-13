@@ -2,6 +2,7 @@ float x =120;
 float speed = 0.5;
 int radius = 40;
 int direction = 1;
+//I made this as a comment
 
 void setup(){
   size(240,120);
